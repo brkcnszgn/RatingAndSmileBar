@@ -3,10 +3,10 @@
 
     <color name="colorBlack">#FF000000</color>
     <color name="colorWhite">#FFFFFFFF</color>
-    <color name="colorYellow">#EFC64A</color>
-    <color name="colorAmber">#EF9C4E</color>
-    <color name="colorOrange">#FB8621</color>
-    <color name="colorDeepOrange">#EC5016</color>
+    <color name="colorYellow">#03A9F4</color>
+    <color name="colorAmber">#097FDD</color>
+    <color name="colorOrange">#1636E4</color>
+    <color name="colorDeepOrange">#062595</color>
     <color name="colorTranslucentBlack">#0A000000</color>
 
 </resources>
